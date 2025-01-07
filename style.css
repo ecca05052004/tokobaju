@@ -1,0 +1,41 @@
+.banner {
+  background: url("https://i.pinimg.com/originals/b5/1d/73/b51d7389beea1983a0810d23715d230d.jpg")
+    no-repeat center center;
+  background-size: cover;
+  padding-top: 20%;
+  padding-bottom: 20%;
+  color: #fff;
+}
+.display-3 {
+  font-weight: bold; /* Membuat teks menjadi tebal */
+}
+
+.lingkaran {
+  display: inline-block;
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+  margin: auto;
+  background: url("https://s1.bukalapak.com/bukalapak-kontenz-production/content_attachments/55866/original/5.jpg")
+  no-repeat center center;
+  background-size: cover;
+  color: #fff;
+  text-align: center;
+}
+
+.lingkaran i {
+  position: relative;
+  top: 50%; /* Pusatkan ikon secara vertikal */
+  transform: translateY(-50%); /* Pusatkan secara sempurna */
+  font-size: 2em;
+  color: #fff; /* Warna ikon */
+}
+
+.kontak {
+  background: url("https://www.wallpaperuse.com/wallp/65-655530_m.jpg") no-repeat
+    center center;
+  background-size: cover;
+  padding-bottom: 30%;
+  padding-top: 50%;
+  color: #fff;
+}
